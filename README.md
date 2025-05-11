@@ -1,7 +1,5 @@
-## 👋 Hi there, I am
-
-# Mohammed Nayeem
-## Senior Full Stack Engineer (React, Node.js, TypeScript)
+# 👋 Hi, I am Mohammed Nayeem
+## Senior Full Stack Engineer - React/React Native | Node.js | TypeScript | Laravel)
 
 I'm Mohammed Nayeem — a senior full stack engineer with around a **decade of hands-on experience** designing and building modern web applications. I specialize in scalable, type-safe software powered by **React, Node.js, TypeScript, GraphQL**, and a strong sense of architecture.
 
@@ -108,33 +106,39 @@ Over the years, I’ve contributed to real-world projects ranging from lean star
 
 ---
 
-### 🔧 Backend Engineering (Node.js + TypeScript)
+### 🔧 Backend Engineering (Node.js, TypeScript & Laravel)
 
 * **Architecture**:
+  * Layered structure with **controllers**, **services**, **repositories**, **validators**
+  * Clean separation following **MVC**, inspired by **DDD** and **Ports & Adapters**
+  * Reusable modules and service-oriented patterns for scalability
 
-  * Layered structure: controllers, services, repositories, validators
-  * Clean separation following MVC with inspiration from DDD and Ports & Adapters
 * **API Development**:
+  * RESTful APIs & GraphQL (**Apollo Server**, **Nexus**, **TypeGraphQL**)
+  * Global middleware pipelines, request validation, token guards, centralized error handling
 
-  * RESTful APIs, GraphQL (Apollo Server + Nexus/TypeGraphQL)
-  * Request validation, middleware pipelines, global error handling, token guards
 * **ORMs & Query Builders**:
+  * **Prisma** – Schema modeling, raw SQL, middleware pipelines, soft deletes
+  * **Knex.js** – SQL-first approach, performance-tuned queries
+  * **Objection.js** – Graph inserts, lifecycle hooks, polymorphic relationships
+  * **Eloquent (Laravel)** – Relationships, eager loading, scopes, events, and API resources
 
-  * **Prisma**: Advanced relational modeling, raw SQL, middleware chains, soft deletes, and performance tweaks
-  * **Knex.js**: SQL-first migrations, query performance, raw joins
-  * **Objection.js**: Lifecycle hooks, graph inserts, polymorphic data
-* **Authentication**:
+* **Authentication & Authorization**:
+  * **JWT**, OAuth, session-based auth, Firebase Auth
+  * **Laravel Sanctum & Passport** – SPA and API token management
+  * Role-based access, token refresh strategies
 
-  * JWT, OAuth, Firebase Auth, role-based access, token refresh cycles
 * **Jobs & Background Tasks**:
+  * **Node.js** – BullMQ, cron jobs, job retries, Redis-backed queues
+  * **Laravel** – Queued jobs, event broadcasting, scheduling via `schedule()` method
 
-  * BullMQ, cron jobs, job retries, distributed queues
-* **WebSockets**:
+* **Real-time & WebSockets**:
+  * **Socket.IO**, **Express Ws**, channel-based communication, presence tracking
+  * **Laravel Echo** & **Pusher** – Real-time updates and event broadcasting
 
-  * Express Ws, Socket.IO and scalable room/channel structures
 * **File Management**:
-
-  * Presigned URLs (S3/Firebase), CDN integrations, versioned uploads
+  * **Presigned URLs** (S3/Firebase), secure uploads, CDN integration
+  * **Laravel Filesystem** – Disk abstraction, file versioning, media conversions (e.g., Spatie Media Library)
 
 ---
 
@@ -149,7 +153,7 @@ Over the years, I’ve contributed to real-world projects ranging from lean star
 * **Data Modeling**:
 
   * Hybrid schemas with type safety across app + DB + API
-  * Prisma + Zod + TypeScript codegen integrations
+  * Prisma/Knex + Zod/Joi + TypeScript codegen integrations
 * **Migrations**:
 
   * Knex, Prisma, Sequelize — zero downtime rollout and rollback workflows
@@ -173,29 +177,11 @@ Over the years, I’ve contributed to real-world projects ranging from lean star
 
   * Monitoring, logging, reverse proxy, DB backups, cron-based auto deploy
 
----
-
-### 🧠 Engineering Philosophy
-
-* 🧼 **Clean Architecture**:
-  I believe architecture is not a buzzword — it’s a **culture**. My codebase is isolated, scalable, and **testable-by-default**.
-
-* 🛠️ **Tooling Lover**:
-  I build CLIs, code mod scripts, VSCode snippets, generators — anything to boost DX.
-
-* 🧪 **Test-Aware Thinking**:
-  From Jest and Vitest to PHPUnit and Cypress — I test what matters and automate the rest.
-
-* ⚙️ **Automation & Dev Happiness**:
-  If it’s boring or repeatable — I automate it.
-
-* 🧭 **Product-First Thinking**:
-  I don’t chase tickets blindly. I ask: *Why? Who’s using it? How fast? How often?*
 
 ---
 
 📬 **Reach Me At:**
-**📧 [nayeem.dev.bd@gmail.com](mailto:nayeem.dev.bd@gmail.com)**
+**📧 [nayeem.dev.bd@gmail.com](mailto:chiefnayeem@gmail.com)**
 
 I’m open to freelance, consulting, and remote full-time opportunities where engineering excellence matters.
 
