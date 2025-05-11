@@ -7,7 +7,7 @@ Over the years, I’ve contributed to real-world projects ranging from lean star
 
 * 🌍  I'm based in Cumilla, Bangladesh
 * ✉️  You can contact me at [chiefnayeem@gmail.com](mailto:chiefnayeem@gmail.com)
-* 🧠  I'm learning Kotlin/Java
+* 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Interesting JAMStack based Project
 
 ---
