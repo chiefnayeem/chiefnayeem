@@ -181,7 +181,7 @@ Over the years, I’ve contributed to real-world projects ranging from lean star
 ---
 
 📬 **Reach Me At:**
-**📧 [nayeem.dev.bd@gmail.com](mailto:chiefnayeem@gmail.com)**
+**📧 [chiefnayeem@gmail.com](mailto:chiefnayeem@gmail.com)**
 
 I’m open to freelance, consulting, and remote full-time opportunities where engineering excellence matters.
 
