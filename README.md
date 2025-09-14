@@ -1,14 +1,15 @@
 # 👋 Hi, I am Mohammed Nayeem
-## Senior Full Stack Engineer - React/React Native | Node.js | TypeScript | Laravel)
+## Senior Full Stack Engineer - React | React Native | Node.js | MongoDB | Postgress | MySQL | Laravel | GraphQL | Firebase | Wordpress
 
-I'm Mohammed Nayeem — a senior full stack engineer with around a **decade of hands-on experience** designing and building modern web applications. I specialize in scalable, type-safe software powered by **React, Node.js, TypeScript, GraphQL**, and a strong sense of architecture.
+I'm Mohammed Nayeem — a senior full stack engineer with **10+ years of hands-on experience** designing and building modern web applications. I specialize in scalable, type-safe software powered by **React, Node.js, TypeScript, GraphQL**, and a strong sense of architecture.
 
 Over the years, I’ve contributed to real-world projects ranging from lean startups to complex enterprise systems. I architect solutions that aren’t just technically sound — but clean, predictable, and long-lasting. I write code that’s designed to be understood, extended, and enjoyed by others (and future me).
 
-* 🌍  I'm based in Cumilla, Bangladesh
-* ✉️  You can contact me at [chiefnayeem@gmail.com](mailto:chiefnayeem@gmail.com)
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Interesting JAMStack based Project
+* 🌍  Based in Cumilla, Bangladesh
+* ✉️  Email: [chiefnayeem@gmail.com](mailto:chiefnayeem@gmail.com)
+* 📱  WhatsApp: [+8801918451814](https://wa.me/8801918451814)
+* 🧠  Currently learning Python
+* 🤝  Open to collaborating on React, Next.js, Laravel, or AI/ML projects
 
 ---
 
@@ -25,157 +26,187 @@ Over the years, I’ve contributed to real-world projects ranging from lean star
 
 ---
 
-### ⚛️ Frontend Engineering (React + TypeScript)
+### <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="20" height="20" alt="HTML5" style="vertical-align: middle;" /> Frontend Technologies
 
-* **Scalable UI Architecture**:
-  - Feature-first folder structures with isolation principles (modular, domain-driven)
-  - Atomic Design, Presentational/Container components, and Shared UI Libraries
-  - Multi-tenant design patterns and plugin-style architecture support
+#### <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="20" height="20" alt="React" style="vertical-align: middle;" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="20" height="20" alt="Next.js" style="vertical-align: middle;" /> React/Next.js Ecosystem
 
-* **TypeScript-First UIs**:
-  - Strong typing with utility types, generics, conditional types, discriminated unions
-  - Fully typed hooks & reusable form schemas (with Zod/Yup)
-  - Type-safe service layers with auto-inferred responses & parameterized endpoints
+• `React, React Native, Expo`  
+• `Next.js` / `Gatsby.js` / `Remix`  
+• `Tailwind CSS`  
+• `Material-UI (MUI)`  
+• `ShadCN`, `Radix UI`, `Radix Primitives`  
+• `DaisyUI`  
+• `Next UI`  
+• `Ant Design`  
+• `Chakra UI`  
+• `Styled-Components`, `Emotion`  
+• `React Router`  
+• `Redux` / `Redux Toolkit`  
+• `Zustand` / `Jotai` / `Recoil`  
+• `React Hook Form` / `Formik` / `Yup`, `Joi`  
+• `Framer Motion`  
+• `React Spring`  
+• `Lottie`  
+• `React Query` / `TanStack Query`  
+• `SWR`  
+• `Apollo Client (GraphQL)`  
+• `Socket.IO` / `WebSockets` / `Server-Sent Events`  
+• `Firebase Cloud Messaging` / `OneSignal` / `Web Push API`  
+• `Vercel` / Deployment & SSR optimization
 
-* **React Power Usage**:
-  - **React 18+**: Concurrent rendering, Suspense boundaries, `useDeferredValue`, `useTransition`
-  - **Server Components** (RSC), SSR, SSG, and hydration strategies
-  - Custom hooks with abstraction for side effects, debouncing, and performance tracking
+---
 
-* **State Management (Real World)**:
-  - **Redux Toolkit** with:
-    - Slice modularization, RTK Query for normalized cache management
-    - Entity adapter, middleware, typed selectors, devtools instrumentation
-  - **Zustand**, **Recoil**, and **Jotai** for lightweight and atomic states
-  - Hybrid/global state strategies using context + state libraries
+### <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="20" height="20" alt="Vue.js" style="vertical-align: middle;" /> Vue.js Ecosystem
 
-* **API Abstraction Layer**:
-  - Centralized API clients with Axios/Fetch wrappers
-  - Layered service hooks (`useUser()`, `useOrders()`, etc.) — fully typed and testable
-  - Error boundary integrations and global toast fallback layers
+• `Vue.js (2/3)`  
+• `Vuex` / `Pinia` (State Management)  
+• `Vue Router`  
+• `Nuxt.js` (SSR / Static Sites)  
+• `Composition API` / `Options API`  
+• `Vuetify` / `Quasar` / `Element UI` / `Tailwind CSS`  
+• `Vue CLI` / `Vite`  
+• `Vue Formulate` / `VeeValidate` (Forms & Validation)  
+• `Framer Motion` / `VueUse` / Animation Libraries  
+• `Socket.IO` / `Vue-Socket.io` / `WebSockets`  
+• `Firebase Cloud Messaging` / `OneSignal` / `Web Push API`  
+• Unit Testing (`Jest` / `Vue Test Utils`)
 
-* **Advanced Forms**:
-  - Deep mastery of **React Hook Form** and **Formik**
-  - Field arrays, nested schemas, conditional sections, real-time validation
-  - Integrated validation via **Zod**/**Yup**, with reusable form logic
+---
 
-* **Virtual Rendering & Performance**:
-  - `react-window`, `react-virtual`, custom virtualization pipelines
-  - Lazy-loading with suspense fallback chaining
-  - Memoization (`useMemo`, `React.memo`, selectors), event throttling & batching
+### <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="20" height="20" alt="React Native" style="vertical-align: middle;" /> React Native
 
-* **UI Systems**:
-  - Design systems with **Tailwind CSS**, **MUI**, **Radix UI**, and custom tokens
-  - Theming architecture with dark/light switches, dynamic token hydration
-
-* **Animations**:
-  - Framer Motion (variants, shared layout, drag physics, enter/exit flows)
-  - Scroll-based animations using intersection observers
-  - Layout transitions with reordering and drag-drop interfaces
-
-* **Electron.js + React**:
-  - Desktop app development with Electron.js + React (custom windows, IPC communication)
-  - Multi-process architecture using preload scripts and secure bridges
-
-* **Tooling & Developer Experience**:
-  - **Custom Webpack/Rollup configs** with code splitting, aliasing, and multi-target builds
-  - **Mono-repo (Turborepo / Yarn Workspaces)** structure for shared packages and libraries
-  - Custom CLIs for component generation, i18n scaffolding, changelog management
-  - Git Hooks (Husky), Code Linting (ESLint), Formatters (Prettier), and Commit Conventions (Commitizen)
-
-* **Accessibility (a11y)**:
-  - Full support for screen readers (ARIA), keyboard nav, tab traps, and landmarks
-  - Semantic HTML5 and dynamic focus management
-
-* **Testing**:
-  - **Jest**, **React Testing Library**, **Cypress** for unit, integration, and E2E tests
-  - Custom test utilities for form validation, async UI states, mocked services
-
-  * Custom Webpack configs, plugins, CLIs, workspace setups
-  * ESLint + Prettier + Husky with workspace-level configs
-
-
-### 📱 React Native Engineering
-  - Cross-platform apps using **React Native + TypeScript**
-  - Custom native modules and platform-specific code (Android/iOS)
-  - UI libraries like **React Native Paper**, **NativeBase**, and **Tailwind-RN**
-  - Deep linking, push notifications (Firebase), and local storage (MMKV/AsyncStorage)
-  - State management with **Zustand**, **Redux Toolkit**, or context API
-  - OTA updates with **Expo EAS** and binary builds with **Xcode/Gradle**
+• `React Native` / `Expo` / `TypeScript`  
+• `Tamagui` / `Dripsy` / `Gluestack UI` / `NativeWind`  
+• `React Native Paper` / `UI Kitten` / `Magnus UI`  
+• `React Navigation` / `React Native Navigation`  
+• `Redux` / `Zustand` / `Jotai` / `MobX`  
+• `React Query` / `Apollo Client` / `Axios` / `SWR`  
+• `Socket.IO` / `WebSockets` / `Firebase Realtime`  
+• `Firebase Cloud Messaging` / `OneSignal` / `Push Notifications`  
+• `React Native Reanimated` / `Gesture Handler`  
+• `Jest` / `Detox` / `React Native Testing Library`  
+• `Expo EAS` / `Fastlane` / `CodePush` / `App Center`  
+• `Hermes` / `Flipper` / `Reactotron`
 
 
 ---
 
-### 🔧 Backend Engineering (Node.js, TypeScript & Laravel)
+### 🖥️ Backend Engineering
 
-* **Architecture**:
-  * Layered structure with **controllers**, **services**, **repositories**, **validators**
-  * Clean separation following **MVC**, inspired by **DDD** and **Ports & Adapters**
-  * Reusable modules and service-oriented patterns for scalability
+#### <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="20" height="20" alt="Node.js" style="vertical-align: middle;" /> Node.js Backend
 
-* **API Development**:
-  * RESTful APIs & GraphQL (**Apollo Server**, **Nexus**, **TypeGraphQL**)
-  * Global middleware pipelines, request validation, token guards, centralized error handling
+• `Node.js` / `Express.js` / `NestJS`  
+• `Prisma` / `Knex.js` / `Objection.js` / `Mongoose`  
+• `MySQL` / `PostgreSQL` / `MongoDB`  
+• `RESTful APIs` / `GraphQL` / `Apollo Server`  
+• `JWT` / `OAuth` / `Passport.js`  
+• `WebSocket` / `Socket.IO` / `Server-Sent Events`  
+• `Redis` / `Caching` / `Rate Limiting`  
+• `Cron Jobs` / `Bull` / `Agenda`  
+• `Jest` / `Mocha` / `Chai` / `Supertest`  
+• `Docker` / `Kubernetes` / `CI/CD`  
+• `AWS Lambda` / `Vercel` / `Serverless`  
 
-* **ORMs & Query Builders**:
-  * **Prisma** – Schema modeling, raw SQL, middleware pipelines, soft deletes
-  * **Knex.js** – SQL-first approach, performance-tuned queries
-  * **Objection.js** – Graph inserts, lifecycle hooks, polymorphic relationships
-  * **Eloquent (Laravel)** – Relationships, eager loading, scopes, events, and API resources
+#### <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="20" height="20" alt="Laravel" style="vertical-align: middle;" /> Laravel Backend
 
-* **Authentication & Authorization**:
-  * **JWT**, OAuth, session-based auth, Firebase Auth
-  * **Laravel Sanctum & Passport** – SPA and API token management
-  * Role-based access, token refresh strategies
+• `Laravel 8/9/10` / `PHP 8.x`  
+• `MySQL` / `PostgreSQL` / `MongoDB`  
+• `RESTful APIs` / `GraphQL`  
+• `Laravel Reverb` / `WebSockets`  
+• `Eloquent ORM` / `Query Builder`  
+• `JWT` / `Sanctum` / `Passport`  
+• `Roles` / `Permissions` / `Policies`  
+• `Middleware` / `Request Validation`  
+• `Task Scheduling` / `Queues` / `Jobs`  
+• `Event Broadcasting` / `Notifications`  
+• `PHPUnit` / `Pest` / `Testing`  
+• `Blade` / `Inertia.js` / `Livewire`  
+• `Forge` / `Envoyer` / `Vapor` / `Deployment`
 
-* **Jobs & Background Tasks**:
-  * **Node.js** – BullMQ, cron jobs, job retries, Redis-backed queues
-  * **Laravel** – Queued jobs, event broadcasting, scheduling via `schedule()` method
+#### <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="20" height="20" alt="GraphQL" style="vertical-align: middle;" /> GraphQL
 
-* **Real-time & WebSockets**:
-  * **Socket.IO**, **Express Ws**, channel-based communication, presence tracking
-  * **Laravel Echo** & **Pusher** – Real-time updates and event broadcasting
+• `GraphQL` / `Apollo Server` / `TypeGraphQL`  
+• `Schema Design` / `Type Definitions`  
+• `Queries` / `Mutations` / `Subscriptions`  
+• `Resolvers` / `Data Loaders`  
+• `Authentication` / `Authorization`  
+• `Error Handling` / `Validation`  
+• `Performance Optimization`  
+• `Apollo Federation` / `Schema Stitching`  
+• `GraphQL Code Generator`  
+• `Hasura` / `PostGraphile`  
+• `GraphiQL` / `Playground` / `Voyager`
 
-* **File Management**:
-  * **Presigned URLs** (S3/Firebase), secure uploads, CDN integration
-  * **Laravel Filesystem** – Disk abstraction, file versioning, media conversions (e.g., Spatie Media Library)
+#### 🚀 Deployment & DevOps
+`Forge` `Envoyer` `Laravel Vapor` `Docker` `CI/CD`
 
----
-
-### 🛠️ Databases & Data Architecture
-
-* **SQL**:
-
-  * MySQL, PostgreSQL — optimized indexes, JSON fields, transaction scopes
-* **NoSQL**:
-
-  * MongoDB (aggregation pipelines, document modeling), Firebase Realtime DB & Firestore (rules, offline support)
-* **Data Modeling**:
-
-  * Hybrid schemas with type safety across app + DB + API
-  * Prisma/Knex + Zod/Joi + TypeScript codegen integrations
-* **Migrations**:
-
-  * Knex, Prisma, Sequelize — zero downtime rollout and rollback workflows
 
 ---
 
-### 🧱 System Design, DevOps & Hosting
+### <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="20" height="20" alt="Firebase" style="vertical-align: middle;" /> Firebase & BaaS
 
-* **CI/CD**:
+#### 🔥 Firebase Services
+`Firebase Authentication` `Cloud Firestore` `Realtime Database` `Cloud Storage`  
+`Cloud Functions` `Firebase Hosting` `Cloud Messaging` `Remote Config`  
+`App Check` `Firebase Analytics` `Crashlytics` `Performance Monitoring`
 
-  * GitHub Actions for lint → type-check → test → build → deploy
-* **Deployment**:
+#### 📱 Mobile & Web
+`Firebase SDK` `Firebase Admin` `Firebase CLI` `Firebase Extensions`  
+`Firebase Emulator Suite` `Firebase Test Lab` `App Distribution`
 
-  * Node/Laravel on **Cloudways**; Docker & PM2 orchestration
-  * Nginx reverse proxies, SSL, and custom domain workflows
-* **Ubuntu/Linux**:
+---
 
-  * My daily OS and production playground 🐧
-  * Bash, SSH, process mgmt (`pm2`, `systemctl`, `journalctl`), log rotation
-* **Infrastructure**:
+### 🖥️ Electron.js
 
-  * Monitoring, logging, reverse proxy, DB backups, cron-based auto deploy
+• `Electron` / `Electron Forge` / `Electron Builder`  
+• `Cross-platform Desktop Apps`  
+• `Native APIs` / `Node.js Integration`  
+• `Auto-update` / `Auto-updater`  
+• `Packaging` / `Distribution`  
+• `Electron React Boilerplate`  
+• `Electron Store` / `State Management`  
+• `Electron Debugging` / `DevTools`
+
+---
+
+### 🤖 AI & LLM Development
+
+• `Prompt Engineering` / `LLM Fine-tuning`  
+• `MCP Server` / `MCP Tools`  
+• `AI Agent Development`  
+• `LLM Chat` / `Conversational AI`  
+• `Chatbot Development`  
+• `Real-time AI Interaction`  
+• `Natural Language Processing`  
+• `Vector Databases` / `Embeddings`  
+• `AI Model Integration`  
+• `LangChain` / `LlamaIndex`
+
+---
+
+### <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="20" height="20" alt="Docker" style="vertical-align: middle;" /> DevOps & Cloud
+
+#### ☁️ Hosting & Deployment
+`Vercel` `Netlify` `Render` `Cloudways` `DigitalOcean` `AWS`  
+`Heroku` `Railway` `Fly.io` `Kinsta` `Platform.sh`
+
+#### 🛠️ CI/CD & Automation
+`GitHub Actions` `GitLab CI/CD` `CircleCI` `Jenkins` `ArgoCD`
+
+#### 🐳 Containerization & Orchestration
+`Docker` `Kubernetes` `Docker Compose` `Portainer` `Rancher`
+
+#### 📊 Monitoring & Observability
+`Sentry` `New Relic` `Datadog` `Grafana` `Prometheus`
+
+#### 🔒 Security & Networking
+`Cloudflare` `Let's Encrypt` `Nginx` `Load Balancing` `CDN` `WAF`
+
+#### 🖥️ Server Management
+`Linux (Ubuntu/Debian/CentOS)` `Bash Scripting` `SSH` `PM2` `Supervisor`
+
+#### 📦 Package & Dependency Management
+`Composer` `npm` `Yarn` `pnpm` `GitHub Packages`
 
 
 ---
@@ -184,7 +215,5 @@ Over the years, I’ve contributed to real-world projects ranging from lean star
 **📧 [chiefnayeem@gmail.com](mailto:chiefnayeem@gmail.com)**
 
 I’m open to freelance, consulting, and remote full-time opportunities where engineering excellence matters.
-
----
 
 🛠️ *"I love building systems that scale — not just in code, but in clarity, maintainability, and developer happiness."*
