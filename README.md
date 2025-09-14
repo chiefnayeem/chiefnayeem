@@ -137,9 +137,6 @@ Over the years, I’ve contributed to real-world projects ranging from lean star
 • `Hasura` / `PostGraphile`  
 • `GraphiQL` / `Playground` / `Voyager`
 
-#### 🚀 Deployment & DevOps
-`Forge` `Envoyer` `Laravel Vapor` `Docker` `CI/CD`
-
 
 ---
 
