@@ -3,7 +3,7 @@
 
 I build production-grade web and mobile applications — clean architecture, type-safe codebases, and systems designed to scale. I've worked across the full lifecycle: API design, frontend delivery, mobile, real-time systems, cloud infrastructure, and LLM integrations.
 
-📍 Bangladesh · 🌐 Available for remote full-time or long-term freelance
+📍 Bangladesh · 🌐 [mohammed-nayeem.vercel.app](https://mohammed-nayeem.vercel.app) · Available for remote full-time or long-term contract
 
 ---
 
