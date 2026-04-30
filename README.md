@@ -30,6 +30,8 @@ I build production-grade web and mobile applications — clean architecture, typ
 
 ## Stats
 
+> *Stats reflect public activity only — most work lives in private client and company repositories.*
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiefnayeem&show_icons=true&hide_border=true&count_private=true&theme=default)](https://github.com/chiefnayeem)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiefnayeem&layout=compact&hide_border=true&theme=default)](https://github.com/chiefnayeem)
 
