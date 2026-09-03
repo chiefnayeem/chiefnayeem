@@ -27,15 +27,9 @@ A schema-driven Redis data layer for Node.js. Entities, lists and sorted-set ind
 
 ## Shipped
 
-### MyGouripur — [Google Play](https://play.google.com/store/apps/details?id=com.mygouripur) · [mygouripur.com](https://mygouripur.com)
+**[MyGouripur](https://play.google.com/store/apps/details?id=com.mygouripur)** — a local commerce platform for a town in Bangladesh. Four codebases, all mine: NestJS API, React Native app, public site, admin console. Runs on `redis-graph-cache` in production, across 197 cache schemas.
 
-A local commerce platform for a town in Bangladesh — merchant pages with products, food menus, services and doctors' chamber hours, plus a community feed and classifieds. Four codebases, all mine: NestJS API, React Native app, public site, admin console.
-
-- Registers **197 cache schemas** against `redis-graph-cache` — 125 entities and 72 sorted-set indexes — under the invariant that an entity must outlive by 2× any list referencing it.
-- Feed lists are warm windows rebuilt single-flight under a lock, so a miss does not send a thundering herd at Postgres. Deep feeds paginate by keyset cursor: page 1,000 costs what page 1 costs.
-- Every read degrades to Postgres on a Redis fault. An outage slows the app down; it does not take it down.
-- Notification crons take transaction-scoped Postgres advisory locks, with a per-recipient-per-day unique index as the real backstop.
-- Merchant broadcast copy is written by an LLM and then validated against the source data. Doctor chamber-hour reminders deliberately are not — a paraphrased clinic time sends someone to a closed door, so a fixed Bangla template is correct by construction.
+Live on [Google Play](https://play.google.com/store/apps/details?id=com.mygouripur) and [mygouripur.com](https://mygouripur.com). Source is private — the engineering write-up is on [my site](https://mohammed-nayeem.vercel.app).
 
 ---
 
