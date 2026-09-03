@@ -11,19 +11,20 @@ I build production systems across the whole request path — services and data o
 
 The things I use daily and would happily be questioned on in depth.
 
-| | |
-| :-- | :-- |
-| **TypeScript** | Strict mode across every project. Typed API contracts end to end, so a broken shape fails the build instead of production. |
-| **React · Next.js** | App Router, custom Webpack plugin setups, and micro-frontend embedding — one bundle mounted into Vue and Laravel Blade hosts. |
-| **React Native** | CLI rather than Expo. Animation on the UI thread, list virtualisation, offline-tolerant caching, store releases. |
-| **Node.js · NestJS** | REST and GraphQL. Thin controllers, services owning the logic, repositories owning data access, Swagger-documented. |
-| **PostgreSQL** | Keyset pagination, transaction-scoped advisory locks, polymorphic modelling that extends without migrations, Knex. |
-| **Redis** | Deep enough to have written a library for it — schema-driven normalization, Lua atomicity, circuit breaking. |
-| **GraphQL · WebSockets** | Apollo, plus the reconnection and state-reconciliation paths that decide whether real-time is usable. |
+| | | |
+| :--: | :-- | :-- |
+| <img src="https://cdn.simpleicons.org/typescript/3178C6" width="17" align="top" /> | **TypeScript** | Strict mode across every project. Typed API contracts end to end, so a broken shape fails the build instead of production. |
+| <img src="https://cdn.simpleicons.org/react/61DAFB" width="17" align="top" /> <img src="https://cdn.simpleicons.org/nextdotjs/888888" width="17" align="top" /> | **React · Next.js** | App Router, custom Webpack plugin setups, and micro-frontend embedding — one bundle mounted into Vue and Laravel Blade hosts. |
+| <img src="https://cdn.simpleicons.org/react/61DAFB" width="17" align="top" /> | **React Native** | CLI rather than Expo. Animation on the UI thread, list virtualisation, offline-tolerant caching, store releases. |
+| <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="17" align="top" /> <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="17" align="top" /> | **Node.js · NestJS** | REST and GraphQL. Thin controllers, services owning the logic, repositories owning data access, Swagger-documented. |
+| <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="17" align="top" /> <img src="https://cdn.simpleicons.org/php/8892BF" width="17" align="top" /> | **Laravel · PHP** | Four years leading an eCommerce build on it, and several since. Lately modernising Blade apps in place — React mounted into existing views rather than a rewrite. |
+| <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="17" align="top" /> | **PostgreSQL** | Keyset pagination, transaction-scoped advisory locks, polymorphic modelling that extends without migrations, Knex. |
+| <img src="https://cdn.simpleicons.org/redis/FF4438" width="17" align="top" /> | **Redis** | Deep enough to have written a library for it — schema-driven normalization, Lua atomicity, circuit breaking. |
+| <img src="https://cdn.simpleicons.org/graphql/E10098" width="17" align="top" /> | **GraphQL · WebSockets** | Apollo, plus the reconnection and state-reconciliation paths that decide whether real-time is usable. |
 
 ## Also work with
 
-Vue.js · Nuxt · Laravel · PHP · Express · Redux Toolkit · Zustand · TanStack Query · Tailwind CSS · NativeWind · Prisma · TypeORM · Objection · Knex · MySQL · MongoDB · Docker · GitHub Actions · AWS Lambda · Cloudflare R2 · Firebase · Electron · Gatsby · Stripe · LangChain · MCP servers
+Vue.js · Nuxt · Express · Redux Toolkit · Zustand · TanStack Query · Tailwind CSS · NativeWind · Prisma · TypeORM · Objection · Knex · MySQL · MongoDB · Docker · GitHub Actions · AWS Lambda · Cloudflare R2 · Firebase · Electron · Gatsby · Stripe · LangChain · MCP servers
 
 ---
 
