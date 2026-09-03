@@ -3,7 +3,7 @@
 
 I build production systems across the whole request path — services and data on one end, web and mobile on the other. Nine years of it, most of it multi-tenant SaaS and commerce platforms that live in private client repositories.
 
-Two pieces are public: [`redis-graph-cache`](https://www.npmjs.com/package/redis-graph-cache) on npm, and [MyGouripur](https://play.google.com/store/apps/details?id=com.mygouripur) on Google Play.
+Two pieces are public: [`redis-graph-cache`](https://www.npmjs.com/package/redis-graph-cache) on npm, and [My Gouripur](https://play.google.com/store/apps/details?id=com.mygouripur) on Google Play.
 
 📍 Bangladesh (UTC+6) · 🌐 [mohammed-nayeem.vercel.app](https://mohammed-nayeem.vercel.app) · Open to full-time remote roles
 
@@ -53,7 +53,7 @@ A schema-driven Redis data layer for Node.js. Entities, lists and sorted-set ind
 
 ## Shipped
 
-**[MyGouripur](https://play.google.com/store/apps/details?id=com.mygouripur)** — a local commerce platform for a town in Bangladesh. Four codebases, all mine: NestJS API, React Native app, public site, admin console. Runs on `redis-graph-cache` in production across 197 cache schemas.
+**[My Gouripur](https://play.google.com/store/apps/details?id=com.mygouripur)** — a local commerce platform for a town in Bangladesh. Four codebases, all mine: NestJS API, React Native app, public site, admin console. Runs on `redis-graph-cache` in production across 197 cache schemas.
 
 Live on [Google Play](https://play.google.com/store/apps/details?id=com.mygouripur) and [mygouripur.com](https://mygouripur.com). Source is private; the engineering write-up is on [my site](https://mohammed-nayeem.vercel.app).
 
